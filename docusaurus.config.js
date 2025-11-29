@@ -17,14 +17,14 @@ const config = {
   },
 
   // Your production URL
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://gameview0-art.github.io',
 
   // Base URL under which your site is served
-  baseUrl: '/',
-
+  baseUrl: 'my-website',
+  organizationName: 'gameview0-art', // 你的 GitHub 用户名
+  projectName: 'my-website',        // 仓库名
+  deploymentBranch: 'gh-pages',
   // GitHub pages deployment config.
-  organizationName: 'facebook', // Usually your GitHub org/user name
-  projectName: 'docusaurus',    // Usually your repo name
 
   onBrokenLinks: 'throw',
 
