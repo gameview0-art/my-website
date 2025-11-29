@@ -2,9 +2,7 @@
 
 If you would like to reach me regarding this microsite or my technical writing work, you can use the following information:
 
-- **Name:** Jas
-- **Email:** example@gmail.com 
-- **GitHub:** https://github.com/gameview0-art/TWR2019
+
 
 Please replace the email and GitHub URL above with your actual contact information.
 
